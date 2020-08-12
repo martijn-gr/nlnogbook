@@ -59,7 +59,7 @@ raymon:
   country: nl
   rir_handle: RVDM88-RIPE
   companies:
-    - solcon
+    - Solcon
     - raymon
 MarkS-:
   full_name: Mark Scholten
@@ -215,12 +215,13 @@ job:
     - ntt
     - jobsnijders
     - openbsd
+    - peeringdb
 rinse:
   full_name: Rinse Kloek
   country: nl
   rir_handle: RK10718-RIPE
   companies:
-    - solcon
+    - Solcon
 jurrian:
   full_name: Jurrian van Iersel
   rir_handle:
@@ -285,3 +286,15 @@ Martijn:
   country: nl
   companies:
      - FEN
+Eguan:
+  full_name: Marcel de Jager
+  country: nl
+  companies:
+    - Solcon
+techwolf12:
+  full_name: Christiaan de Die le Clercq
+  country: nl
+  rir_handle:
+    - CDDL1-RIPE
+  companies:
+    - wolfined

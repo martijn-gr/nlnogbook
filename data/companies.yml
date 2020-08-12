@@ -66,7 +66,7 @@ signet:
   name: Signet B.V.
   asn: [28878, 39700, 49685]
   site: https://www.signet.nl
-solcon:  
+Solcon:  
   name: Solcon Internetdiensten B.V.
   asn: 12414
   site: https://www.solcon.nl
@@ -190,3 +190,10 @@ FEN:
 openbsd:
   name: OpenBSD
   site: https://openbsd.org/
+peeringdb:
+  name: PeeringDB
+  site: https://peeringdb.com/
+wolfined:
+  name: Wolfined
+  asn: 206477
+  site: https://wolfined.com/
